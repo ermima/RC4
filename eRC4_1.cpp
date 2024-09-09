@@ -1,5 +1,6 @@
 /*
 RC4 encryption implementation
+By Ermias Antigegn
 */
 
 //Define the structure that holds the state of the RC4 algorithm
